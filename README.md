@@ -141,7 +141,7 @@ If you want to use the demo files as is you just need to program the bitstream p
 If you want to change how the demos behave you will need to rebuild them. For the blink, hdmi and uart tests you just need to run `make` in the same folder to update them with your changes. For the litex_linux demo you will need to have the [litex repository](https://github.com/litex-hub/linux-on-litex-vexriscv) downloaded locally and will need to modify the `top.ys` file where it lists `INSTALL_DIR` with the location you put the repo.
 
 # How to buy
-You can buy iCESugar-pro and PMOD peripherals from our offcial aliexpress shop [Muse Lab Factory Store](https://miusecn-muselab-tech.aliexpress.com/) or search `iCESugar-Pro FPGA` on [aliexpress.com](https://miusecntech-muselab.aliexpress.com/)
+You can buy iCESugar-pro and PMOD peripherals from our offcial aliexpress shop [Muse Lab Factory Store](https://miusecn-muselab-tech.aliexpress.com/) or [Tindie Store](https://www.tindie.com/products/johnnywu/icesugar-pro-fpga-development-board/)
 
 # Copyright Statement
 The HDMI test verilog source code is from [github.com/DoctorWkt/ULX3S-Blinky](https://github.com/DoctorWkt/ULX3S-Blinky)  
